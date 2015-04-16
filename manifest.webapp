@@ -1,0 +1,13 @@
+{
+  "name": "LEALFLET",
+  "description": "leaflet en firefoxOS",
+  "launch_path": "/home/adrian/DAT/X-Nav-5.11.2-OpenWebApps/index.html",
+  "icons": {
+    "128": ""
+  },
+  "developer": {
+    "name": "Adrian",
+    "url": "https://github.com/adrianalonsoba"
+  },
+  "default_locale": "en"
+}
